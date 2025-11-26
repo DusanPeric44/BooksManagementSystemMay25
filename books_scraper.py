@@ -55,5 +55,3 @@ def scrape_books():
             print(f"Scraped {title} by {author}")
 
     return books_dict, authors
-
-print(scrape_books())
