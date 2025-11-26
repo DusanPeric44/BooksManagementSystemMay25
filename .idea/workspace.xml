@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b942e0c-a037-4b3a-ac6a-915420a68e6f" name="Changes" comment="book scraper">
-      <change afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+    <list default="true" id="2b942e0c-a037-4b3a-ac6a-915420a68e6f" name="Changes" comment="insert data in db">
+      <change afterPath="$PROJECT_DIR$/models/author.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/book.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/books_scraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,12 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1764015239217</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="insert data in db">
+      <option name="closed" value="true" />
+      <created>1764186931163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764186931163</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="book scraper" />
-    <option name="LAST_COMMIT_MESSAGE" value="book scraper" />
+    <MESSAGE value="insert data in db" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert data in db" />
   </component>
 </project>
