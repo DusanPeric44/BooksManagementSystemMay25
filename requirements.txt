@@ -1,5 +1,6 @@
 uuid
 dotenv
+python-dotenv
 fastapi
 uvicorn
 pydantic
